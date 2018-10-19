@@ -5,3 +5,10 @@ C:\Users\318135918\Desktop\eric_almeida_318135918\PROVA\PROVA\obj\Debug\PROVA.cs
 C:\Users\318135918\Desktop\eric_almeida_318135918\PROVA\PROVA\obj\Debug\PROVA.csproj.CoreCompileInputs.cache
 C:\Users\318135918\Desktop\eric_almeida_318135918\PROVA\PROVA\obj\Debug\PROVA.exe
 C:\Users\318135918\Desktop\eric_almeida_318135918\PROVA\PROVA\obj\Debug\PROVA.pdb
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\bin\Debug\PROVA.exe.config
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\bin\Debug\PROVA.exe
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\bin\Debug\PROVA.pdb
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\obj\Debug\PROVA.csprojAssemblyReference.cache
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\obj\Debug\PROVA.csproj.CoreCompileInputs.cache
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\obj\Debug\PROVA.exe
+C:\Users\Eric Almeida\Desktop\Correcao_prova_318135918-master\PROVA\PROVA\obj\Debug\PROVA.pdb

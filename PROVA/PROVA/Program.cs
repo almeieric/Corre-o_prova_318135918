@@ -55,65 +55,32 @@ namespace PROVA
 
             //Exercicio 1
             Console.WriteLine("Insira primeiro Numero:");
-            
-
-
-
-
             int a = Int32.Parse(Console.ReadLine());//recebe numero a
-           // Console.WriteLine("primeiro numero é: " + a);//mostra numero a na tela
+            Console.WriteLine("primeiro numero é: " + a);//mostra numero a na tela
+
+            Console.WriteLine("Insira Segundo numero:");
             int b = Int32.Parse(Console.ReadLine());//recebe numero b
             Console.WriteLine("Segundo numero é: " + b);//mostra numero b na tela
 
             Console.WriteLine(Maior(a , b) + " é o maior numero");
             //Exercicio 2
 
-
-            /*Console.WriteLine("Informe seu peso");
+            double imc = 0.0;
+            Console.WriteLine("Informe seu peso");
             double massa = Double.Parse(Console.ReadLine());//informa peso
             Console.WriteLine("Seu Peso é: " + massa);
             Console.WriteLine("Informe sua altura");
             double altura = Double.Parse(Console.ReadLine());//informa altura
             Console.WriteLine("Sua Altura é: " + altura);
+           
 
-            Construtor cos = new Construtor(massa, altura);//pega a formula na outra classe
+            IMC Tabela = new IMC();//pega a formula na outra classe
 
-            if (cos.imc < 16)//verifica a tabela de IMC
-            {
-                Console.WriteLine("voce tem Magreza moderada\n");
-            }
-            else if (cos.imc > 17)
-            {
-                Console.WriteLine("voce tem Magreza moderada\n");
-            }
-            else if (cos.imc < 18.5)
-            {
-                Console.WriteLine("voce tem Magreza Leve\n");
-            }
-            else if (cos.imc < 25)
-            {
-                Console.WriteLine("voce esta saudavel\n");
-            }
-            else if (cos.imc < 30)
-            {
-                Console.WriteLine("voce esta com sobrepeso\n");
-            }
-            else if (cos.imc < 35)
-            {
-                Console.WriteLine("voce esta com obesidaed de primeiro grau\n");
-            }
-            else if (cos.imc < 40)
-            {
-                Console.WriteLine("voce esta com obesidaed de segundo grau(severa)\n");
-            }
-            else
-            {
-                Console.WriteLine("voce esta com obesidaed de terceiro grau(morbida)\n");
-            }
+            imc = Tabela.CalcularIMC(massa, altura);
+            
+            
 
-
-
-    */
+            Console.WriteLine(Tabela.Classificar(imc) + "\n");
 
 
 
