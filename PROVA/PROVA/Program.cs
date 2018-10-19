@@ -88,13 +88,6 @@ namespace PROVA
             Console.WriteLine("é Par ou Impar?\nInsira um Numero");
              int parImpar = Int32.Parse(Console.ReadLine());//recebe o numero
 
-            // int par = 0;
-            // par = parImpar % 2;
-
-             //if (par == 0)//verifica se é par
-              //   Console.WriteLine(parImpar + " é um numero par\n");
-             //else
-             //    Console.WriteLine(parImpar + " é um numero impar\n");
 
      
             Console.WriteLine(Par2(parImpar));
